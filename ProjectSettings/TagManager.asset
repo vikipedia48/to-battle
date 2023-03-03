@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UnitButton
+  - fortify
+  - charge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 1580821117
+    locked: 0
+  - name: Unit
+    uniqueID: 2021124517
+    locked: 0
+  - name: FortifiedAndCharge
+    uniqueID: 1256059733
+    locked: 0
+  - name: Rank
+    uniqueID: 1030529881
+    locked: 0
+  - name: Effect
+    uniqueID: 2441419355
+    locked: 0

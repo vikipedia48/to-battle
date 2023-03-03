@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e5cd04ab-c1fb-e2df-1f83-e76b62faacde}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothGridLayout", "SmoothGridLayout.csproj", "{b2f9d900-bf82-d51b-aeec-7b7ad6ee3add}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetUsageDetector.Editor", "AssetUsageDetector.Editor.csproj", "{409fabf5-92f5-bc75-ec86-e405e899e88e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{327cb368-025d-a7df-cc44-68d4a4180a99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e5cd04ab-c1fb-e2df-1f83-e76b62faacde}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e5cd04ab-c1fb-e2df-1f83-e76b62faacde}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b2f9d900-bf82-d51b-aeec-7b7ad6ee3add}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b2f9d900-bf82-d51b-aeec-7b7ad6ee3add}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409fabf5-92f5-bc75-ec86-e405e899e88e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409fabf5-92f5-bc75-ec86-e405e899e88e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327cb368-025d-a7df-cc44-68d4a4180a99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327cb368-025d-a7df-cc44-68d4a4180a99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
